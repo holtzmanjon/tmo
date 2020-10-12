@@ -1,0 +1,2840 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<RTML version="2.3">
+<Contact><User>holtz</User>
+<Email>holtz@nmsu.edu</Email>
+<Organization>NMSU</Organization></Contact>
+<Request>
+<ID>M110</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M110</Name>
+  <Coordinates><RightAscension>10.100000</RightAscension><Declination>41.683333</Declination></Coordinates>
+  <Picture count="1"><Name>M110</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M110</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M110</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M31</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M31</Name>
+  <Coordinates><RightAscension>10.675000</RightAscension><Declination>41.266667</Declination></Coordinates>
+  <Picture count="1"><Name>M31</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M31</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M31</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M32</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M32</Name>
+  <Coordinates><RightAscension>10.675000</RightAscension><Declination>40.866667</Declination></Coordinates>
+  <Picture count="1"><Name>M32</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M32</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M32</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M103</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M103</Name>
+  <Coordinates><RightAscension>23.300000</RightAscension><Declination>60.700000</Declination></Coordinates>
+  <Picture count="1"><Name>M103</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M103</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M103</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M33</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M33</Name>
+  <Coordinates><RightAscension>23.475000</RightAscension><Declination>30.650000</Declination></Coordinates>
+  <Picture count="1"><Name>M33</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M33</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M33</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M74</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M74</Name>
+  <Coordinates><RightAscension>24.175000</RightAscension><Declination>15.783333</Declination></Coordinates>
+  <Picture count="1"><Name>M74</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M74</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M74</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M76</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M76</Name>
+  <Coordinates><RightAscension>25.600000</RightAscension><Declination>51.566667</Declination></Coordinates>
+  <Picture count="1"><Name>M76</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M76</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M76</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M34</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M34</Name>
+  <Coordinates><RightAscension>40.500000</RightAscension><Declination>42.783333</Declination></Coordinates>
+  <Picture count="1"><Name>M34</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M34</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M34</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M77</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M77</Name>
+  <Coordinates><RightAscension>40.675000</RightAscension><Declination>-0.016667</Declination></Coordinates>
+  <Picture count="1"><Name>M77</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M77</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M77</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M45</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M45</Name>
+  <Coordinates><RightAscension>56.750000</RightAscension><Declination>24.116667</Declination></Coordinates>
+  <Picture count="1"><Name>M45</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M45</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M45</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M79</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M79</Name>
+  <Coordinates><RightAscension>81.125000</RightAscension><Declination>-24.550000</Declination></Coordinates>
+  <Picture count="1"><Name>M79</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M79</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M79</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M38</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M38</Name>
+  <Coordinates><RightAscension>82.175000</RightAscension><Declination>35.833333</Declination></Coordinates>
+  <Picture count="1"><Name>M38</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M38</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M38</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M1</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M1</Name>
+  <Coordinates><RightAscension>83.625000</RightAscension><Declination>22.016667</Declination></Coordinates>
+  <Picture count="1"><Name>M1</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M1</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M1</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M42</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M42</Name>
+  <Coordinates><RightAscension>83.850000</RightAscension><Declination>-5.450000</Declination></Coordinates>
+  <Picture count="1"><Name>M42</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M42</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M42</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M43</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M43</Name>
+  <Coordinates><RightAscension>83.900000</RightAscension><Declination>-5.266667</Declination></Coordinates>
+  <Picture count="1"><Name>M43</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M43</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M43</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M36</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M36</Name>
+  <Coordinates><RightAscension>84.025000</RightAscension><Declination>34.133333</Declination></Coordinates>
+  <Picture count="1"><Name>M36</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M36</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M36</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M78</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M78</Name>
+  <Coordinates><RightAscension>86.675000</RightAscension><Declination>0.050000</Declination></Coordinates>
+  <Picture count="1"><Name>M78</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M78</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M78</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M37</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M37</Name>
+  <Coordinates><RightAscension>88.100000</RightAscension><Declination>32.550000</Declination></Coordinates>
+  <Picture count="1"><Name>M37</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M37</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M37</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M35</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M35</Name>
+  <Coordinates><RightAscension>92.225000</RightAscension><Declination>24.333333</Declination></Coordinates>
+  <Picture count="1"><Name>M35</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M35</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M35</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M41</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M41</Name>
+  <Coordinates><RightAscension>101.750000</RightAscension><Declination>-20.733333</Declination></Coordinates>
+  <Picture count="1"><Name>M41</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M41</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M41</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M50</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M50</Name>
+  <Coordinates><RightAscension>105.800000</RightAscension><Declination>-8.333333</Declination></Coordinates>
+  <Picture count="1"><Name>M50</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M50</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M50</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M47</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M47</Name>
+  <Coordinates><RightAscension>114.150000</RightAscension><Declination>-14.500000</Declination></Coordinates>
+  <Picture count="1"><Name>M47</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M47</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M47</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M46</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M46</Name>
+  <Coordinates><RightAscension>115.450000</RightAscension><Declination>-14.816667</Declination></Coordinates>
+  <Picture count="1"><Name>M46</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M46</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M46</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M93</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M93</Name>
+  <Coordinates><RightAscension>116.150000</RightAscension><Declination>-23.866667</Declination></Coordinates>
+  <Picture count="1"><Name>M93</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M93</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M93</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M48</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M48</Name>
+  <Coordinates><RightAscension>123.450000</RightAscension><Declination>-5.800000</Declination></Coordinates>
+  <Picture count="1"><Name>M48</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M48</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M48</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M44</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M44</Name>
+  <Coordinates><RightAscension>130.025000</RightAscension><Declination>19.983333</Declination></Coordinates>
+  <Picture count="1"><Name>M44</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M44</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M44</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M67</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M67</Name>
+  <Coordinates><RightAscension>132.600000</RightAscension><Declination>11.816667</Declination></Coordinates>
+  <Picture count="1"><Name>M67</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M67</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M67</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M81</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M81</Name>
+  <Coordinates><RightAscension>148.899583</RightAscension><Declination>69.066667</Declination></Coordinates>
+  <Picture count="1"><Name>M81</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M81</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M81</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M82</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M82</Name>
+  <Coordinates><RightAscension>148.949583</RightAscension><Declination>69.683333</Declination></Coordinates>
+  <Picture count="1"><Name>M82</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M82</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M82</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M95</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M95</Name>
+  <Coordinates><RightAscension>161.000000</RightAscension><Declination>11.700000</Declination></Coordinates>
+  <Picture count="1"><Name>M95</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M95</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M95</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M96</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M96</Name>
+  <Coordinates><RightAscension>161.700000</RightAscension><Declination>11.816667</Declination></Coordinates>
+  <Picture count="1"><Name>M96</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M96</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M96</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M105</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M105</Name>
+  <Coordinates><RightAscension>161.950000</RightAscension><Declination>12.583333</Declination></Coordinates>
+  <Picture count="1"><Name>M105</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M105</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M105</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M108</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M108</Name>
+  <Coordinates><RightAscension>167.875000</RightAscension><Declination>55.666667</Declination></Coordinates>
+  <Picture count="1"><Name>M108</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M108</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M108</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M97</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M97</Name>
+  <Coordinates><RightAscension>168.700000</RightAscension><Declination>55.016667</Declination></Coordinates>
+  <Picture count="1"><Name>M97</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M97</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M97</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M65</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M65</Name>
+  <Coordinates><RightAscension>169.725000</RightAscension><Declination>13.083333</Declination></Coordinates>
+  <Picture count="1"><Name>M65</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M65</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M65</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M66</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M66</Name>
+  <Coordinates><RightAscension>170.050000</RightAscension><Declination>12.983333</Declination></Coordinates>
+  <Picture count="1"><Name>M66</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M66</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M66</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M109</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M109</Name>
+  <Coordinates><RightAscension>179.400000</RightAscension><Declination>53.383333</Declination></Coordinates>
+  <Picture count="1"><Name>M109</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M109</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M109</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M98</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M98</Name>
+  <Coordinates><RightAscension>183.450000</RightAscension><Declination>14.900000</Declination></Coordinates>
+  <Picture count="1"><Name>M98</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M98</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M98</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M99</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M99</Name>
+  <Coordinates><RightAscension>184.700000</RightAscension><Declination>14.416667</Declination></Coordinates>
+  <Picture count="1"><Name>M99</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M99</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M99</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M106</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M106</Name>
+  <Coordinates><RightAscension>184.750000</RightAscension><Declination>47.300000</Declination></Coordinates>
+  <Picture count="1"><Name>M106</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M106</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M106</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M61</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M61</Name>
+  <Coordinates><RightAscension>185.475000</RightAscension><Declination>4.466667</Declination></Coordinates>
+  <Picture count="1"><Name>M61</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M61</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M61</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M40</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M40</Name>
+  <Coordinates><RightAscension>185.600000</RightAscension><Declination>58.083333</Declination></Coordinates>
+  <Picture count="1"><Name>M40</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M40</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M40</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M100</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M100</Name>
+  <Coordinates><RightAscension>185.725000</RightAscension><Declination>15.816667</Declination></Coordinates>
+  <Picture count="1"><Name>M100</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M100</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M100</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M84</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M84</Name>
+  <Coordinates><RightAscension>186.275000</RightAscension><Declination>12.883333</Declination></Coordinates>
+  <Picture count="1"><Name>M84</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M84</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M84</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M85</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M85</Name>
+  <Coordinates><RightAscension>186.350000</RightAscension><Declination>18.183333</Declination></Coordinates>
+  <Picture count="1"><Name>M85</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M85</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M85</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M86</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M86</Name>
+  <Coordinates><RightAscension>186.550000</RightAscension><Declination>12.950000</Declination></Coordinates>
+  <Picture count="1"><Name>M86</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M86</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M86</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M49</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M49</Name>
+  <Coordinates><RightAscension>187.450000</RightAscension><Declination>8.000000</Declination></Coordinates>
+  <Picture count="1"><Name>M49</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M49</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M49</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M87</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M87</Name>
+  <Coordinates><RightAscension>187.700000</RightAscension><Declination>12.400000</Declination></Coordinates>
+  <Picture count="1"><Name>M87</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M87</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M87</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M88</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M88</Name>
+  <Coordinates><RightAscension>188.000000</RightAscension><Declination>14.416667</Declination></Coordinates>
+  <Picture count="1"><Name>M88</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M88</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M88</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M91</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M91</Name>
+  <Coordinates><RightAscension>188.850000</RightAscension><Declination>14.500000</Declination></Coordinates>
+  <Picture count="1"><Name>M91</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M91</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M91</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M89</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M89</Name>
+  <Coordinates><RightAscension>188.925000</RightAscension><Declination>12.550000</Declination></Coordinates>
+  <Picture count="1"><Name>M89</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M89</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M89</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M90</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M90</Name>
+  <Coordinates><RightAscension>189.200000</RightAscension><Declination>13.166667</Declination></Coordinates>
+  <Picture count="1"><Name>M90</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M90</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M90</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M58</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M58</Name>
+  <Coordinates><RightAscension>189.425000</RightAscension><Declination>11.816667</Declination></Coordinates>
+  <Picture count="1"><Name>M58</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M58</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M58</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M68</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M68</Name>
+  <Coordinates><RightAscension>189.875000</RightAscension><Declination>-26.750000</Declination></Coordinates>
+  <Picture count="1"><Name>M68</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M68</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M68</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M104</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M104</Name>
+  <Coordinates><RightAscension>190.000000</RightAscension><Declination>-11.616667</Declination></Coordinates>
+  <Picture count="1"><Name>M104</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M104</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M104</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M59</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M59</Name>
+  <Coordinates><RightAscension>190.500000</RightAscension><Declination>11.650000</Declination></Coordinates>
+  <Picture count="1"><Name>M59</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M59</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M59</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M60</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M60</Name>
+  <Coordinates><RightAscension>190.925000</RightAscension><Declination>11.550000</Declination></Coordinates>
+  <Picture count="1"><Name>M60</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M60</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M60</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M94</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M94</Name>
+  <Coordinates><RightAscension>192.725000</RightAscension><Declination>41.116667</Declination></Coordinates>
+  <Picture count="1"><Name>M94</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M94</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M94</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M64</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M64</Name>
+  <Coordinates><RightAscension>194.175000</RightAscension><Declination>21.683333</Declination></Coordinates>
+  <Picture count="1"><Name>M64</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M64</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M64</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M53</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M53</Name>
+  <Coordinates><RightAscension>198.225000</RightAscension><Declination>18.166667</Declination></Coordinates>
+  <Picture count="1"><Name>M53</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M53</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M53</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M63</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M63</Name>
+  <Coordinates><RightAscension>198.950000</RightAscension><Declination>42.033333</Declination></Coordinates>
+  <Picture count="1"><Name>M63</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M63</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M63</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M51</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M51</Name>
+  <Coordinates><RightAscension>202.475000</RightAscension><Declination>47.200000</Declination></Coordinates>
+  <Picture count="1"><Name>M51</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M51</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M51</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M83</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M83</Name>
+  <Coordinates><RightAscension>204.250000</RightAscension><Declination>-29.866667</Declination></Coordinates>
+  <Picture count="1"><Name>M83</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M83</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M83</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M3</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M3</Name>
+  <Coordinates><RightAscension>205.550000</RightAscension><Declination>28.383333</Declination></Coordinates>
+  <Picture count="1"><Name>M3</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M3</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M3</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M101</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M101</Name>
+  <Coordinates><RightAscension>210.800000</RightAscension><Declination>54.350000</Declination></Coordinates>
+  <Picture count="1"><Name>M101</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M101</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M101</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M5</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M5</Name>
+  <Coordinates><RightAscension>229.650000</RightAscension><Declination>2.083333</Declination></Coordinates>
+  <Picture count="1"><Name>M5</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M5</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M5</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M80</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M80</Name>
+  <Coordinates><RightAscension>244.250000</RightAscension><Declination>-22.983333</Declination></Coordinates>
+  <Picture count="1"><Name>M80</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M80</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M80</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M4</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M4</Name>
+  <Coordinates><RightAscension>245.900000</RightAscension><Declination>-26.533333</Declination></Coordinates>
+  <Picture count="1"><Name>M4</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M4</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M4</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M107</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M107</Name>
+  <Coordinates><RightAscension>248.125000</RightAscension><Declination>-13.050000</Declination></Coordinates>
+  <Picture count="1"><Name>M107</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M107</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M107</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M13</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M13</Name>
+  <Coordinates><RightAscension>250.425000</RightAscension><Declination>36.466667</Declination></Coordinates>
+  <Picture count="1"><Name>M13</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M13</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M13</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M12</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M12</Name>
+  <Coordinates><RightAscension>251.800000</RightAscension><Declination>-1.950000</Declination></Coordinates>
+  <Picture count="1"><Name>M12</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M12</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M12</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M10</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M10</Name>
+  <Coordinates><RightAscension>254.275000</RightAscension><Declination>-4.100000</Declination></Coordinates>
+  <Picture count="1"><Name>M10</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M10</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M10</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M62</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M62</Name>
+  <Coordinates><RightAscension>255.300000</RightAscension><Declination>-30.116667</Declination></Coordinates>
+  <Picture count="1"><Name>M62</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M62</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M62</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M19</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M19</Name>
+  <Coordinates><RightAscension>255.650000</RightAscension><Declination>-26.266667</Declination></Coordinates>
+  <Picture count="1"><Name>M19</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M19</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M19</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M92</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M92</Name>
+  <Coordinates><RightAscension>259.275000</RightAscension><Declination>43.133333</Declination></Coordinates>
+  <Picture count="1"><Name>M92</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M92</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M92</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M9</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M9</Name>
+  <Coordinates><RightAscension>259.800000</RightAscension><Declination>-18.516667</Declination></Coordinates>
+  <Picture count="1"><Name>M9</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M9</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M9</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M14</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M14</Name>
+  <Coordinates><RightAscension>264.400000</RightAscension><Declination>-3.250000</Declination></Coordinates>
+  <Picture count="1"><Name>M14</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M14</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M14</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M6</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M6</Name>
+  <Coordinates><RightAscension>265.025000</RightAscension><Declination>-32.216667</Declination></Coordinates>
+  <Picture count="1"><Name>M6</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M6</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M6</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M7</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M7</Name>
+  <Coordinates><RightAscension>268.475000</RightAscension><Declination>-34.816667</Declination></Coordinates>
+  <Picture count="1"><Name>M7</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M7</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M7</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M23</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M23</Name>
+  <Coordinates><RightAscension>269.200000</RightAscension><Declination>-19.016667</Declination></Coordinates>
+  <Picture count="1"><Name>M23</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M23</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M23</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M20</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M20</Name>
+  <Coordinates><RightAscension>270.650000</RightAscension><Declination>-23.033333</Declination></Coordinates>
+  <Picture count="1"><Name>M20</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M20</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M20</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M8</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M8</Name>
+  <Coordinates><RightAscension>270.950000</RightAscension><Declination>-24.383333</Declination></Coordinates>
+  <Picture count="1"><Name>M8</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M8</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M8</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M21</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M21</Name>
+  <Coordinates><RightAscension>271.150000</RightAscension><Declination>-22.500000</Declination></Coordinates>
+  <Picture count="1"><Name>M21</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M21</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M21</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M24</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M24</Name>
+  <Coordinates><RightAscension>274.225000</RightAscension><Declination>-18.483333</Declination></Coordinates>
+  <Picture count="1"><Name>M24</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M24</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M24</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M16</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M16</Name>
+  <Coordinates><RightAscension>274.700000</RightAscension><Declination>-13.783333</Declination></Coordinates>
+  <Picture count="1"><Name>M16</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M16</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M16</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M18</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M18</Name>
+  <Coordinates><RightAscension>274.975000</RightAscension><Declination>-17.133333</Declination></Coordinates>
+  <Picture count="1"><Name>M18</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M18</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M18</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M17</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M17</Name>
+  <Coordinates><RightAscension>275.200000</RightAscension><Declination>-16.183333</Declination></Coordinates>
+  <Picture count="1"><Name>M17</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M17</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M17</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M28</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M28</Name>
+  <Coordinates><RightAscension>276.125000</RightAscension><Declination>-24.866667</Declination></Coordinates>
+  <Picture count="1"><Name>M28</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M28</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M28</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M69</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M69</Name>
+  <Coordinates><RightAscension>277.850000</RightAscension><Declination>-32.350000</Declination></Coordinates>
+  <Picture count="1"><Name>M69</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M69</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M69</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M25</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M25</Name>
+  <Coordinates><RightAscension>277.900000</RightAscension><Declination>-19.250000</Declination></Coordinates>
+  <Picture count="1"><Name>M25</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M25</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M25</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M22</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M22</Name>
+  <Coordinates><RightAscension>279.100000</RightAscension><Declination>-23.900000</Declination></Coordinates>
+  <Picture count="1"><Name>M22</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M22</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M22</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M70</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M70</Name>
+  <Coordinates><RightAscension>280.800000</RightAscension><Declination>-32.300000</Declination></Coordinates>
+  <Picture count="1"><Name>M70</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M70</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M70</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M26</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M26</Name>
+  <Coordinates><RightAscension>281.300000</RightAscension><Declination>-9.400000</Declination></Coordinates>
+  <Picture count="1"><Name>M26</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M26</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M26</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M11</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M11</Name>
+  <Coordinates><RightAscension>282.775000</RightAscension><Declination>-6.266667</Declination></Coordinates>
+  <Picture count="1"><Name>M11</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M11</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M11</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M57</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M57</Name>
+  <Coordinates><RightAscension>283.400000</RightAscension><Declination>33.033333</Declination></Coordinates>
+  <Picture count="1"><Name>M57</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M57</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M57</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M54</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M54</Name>
+  <Coordinates><RightAscension>283.775000</RightAscension><Declination>-30.483333</Declination></Coordinates>
+  <Picture count="1"><Name>M54</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M54</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M54</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M56</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M56</Name>
+  <Coordinates><RightAscension>289.150000</RightAscension><Declination>30.183333</Declination></Coordinates>
+  <Picture count="1"><Name>M56</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M56</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M56</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M55</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M55</Name>
+  <Coordinates><RightAscension>295.000000</RightAscension><Declination>-30.966667</Declination></Coordinates>
+  <Picture count="1"><Name>M55</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M55</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M55</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M71</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M71</Name>
+  <Coordinates><RightAscension>298.450000</RightAscension><Declination>18.783333</Declination></Coordinates>
+  <Picture count="1"><Name>M71</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M71</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M71</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M27</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M27</Name>
+  <Coordinates><RightAscension>299.900000</RightAscension><Declination>22.716667</Declination></Coordinates>
+  <Picture count="1"><Name>M27</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M27</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M27</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M75</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M75</Name>
+  <Coordinates><RightAscension>301.525000</RightAscension><Declination>-21.916667</Declination></Coordinates>
+  <Picture count="1"><Name>M75</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M75</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M75</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M29</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M29</Name>
+  <Coordinates><RightAscension>305.975000</RightAscension><Declination>38.533333</Declination></Coordinates>
+  <Picture count="1"><Name>M29</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M29</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M29</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M72</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M72</Name>
+  <Coordinates><RightAscension>313.375000</RightAscension><Declination>-12.533333</Declination></Coordinates>
+  <Picture count="1"><Name>M72</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M72</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M72</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M73</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M73</Name>
+  <Coordinates><RightAscension>314.725000</RightAscension><Declination>-12.633333</Declination></Coordinates>
+  <Picture count="1"><Name>M73</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M73</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M73</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M15</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M15</Name>
+  <Coordinates><RightAscension>322.500000</RightAscension><Declination>12.166667</Declination></Coordinates>
+  <Picture count="1"><Name>M15</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M15</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M15</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M39</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M39</Name>
+  <Coordinates><RightAscension>323.050000</RightAscension><Declination>48.433333</Declination></Coordinates>
+  <Picture count="1"><Name>M39</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M39</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M39</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M2</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M2</Name>
+  <Coordinates><RightAscension>323.375000</RightAscension><Declination>-0.816667</Declination></Coordinates>
+  <Picture count="1"><Name>M2</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M2</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M2</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M30</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M30</Name>
+  <Coordinates><RightAscension>325.100000</RightAscension><Declination>-23.183333</Declination></Coordinates>
+  <Picture count="1"><Name>M30</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M30</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M30</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+<Request>
+<ID>M52</ID>
+<UserName>NMSU</UserName>
+<Description>Messier catalog</Description>
+<Reason>monitor=0</Reason>
+<Project>Messier</Project>
+<Schedule>
+  <AirmassRange><Minimum>1</Minimum><Maximum>2.000000</Maximum></AirmassRange>
+  <SkyCondition>Good</SkyCondition>
+  <Moon><Distance>20</Distance><Width>6</Width></Moon>
+  <Priority>5</Priority>
+</Schedule>
+<Target count="1" interval="0" tolerance="0">
+  <Name>M52</Name>
+  <Coordinates><RightAscension>351.050000</RightAscension><Declination>61.583333</Declination></Coordinates>
+  <Picture count="1"><Name>M52</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>B</Filter>
+  </Picture>
+  <Picture count="1"><Name>M52</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>V</Filter>
+  </Picture>
+  <Picture count="1"><Name>M52</Name><Description> \#nopreview </Description>
+    <ExposureTime>300.000000</ExposureTime><Binning>1</Binning><Filter>R</Filter>
+  </Picture>
+</Target>
+</Request>
+</RTML>
