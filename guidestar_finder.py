@@ -30,6 +30,19 @@ from astropy import units
 from photutils import CircularAperture
 from photutils import RectangularAperture
 from astropy.coordinates import SkyCoord
+import pdb
+
+# FOV of science camera in arcmin
+SciX = 36.8
+SciY = 24.8
+# FOV of guide camera in arcmin
+GuideX = 6.14
+GuideY = 4.85
+# Offset to guider position
+#GuideOffRA = -2.
+#GuideOffDEC = -16.
+GuideOffRA = 5.
+GuideOffDEC = -34.
 
 
 def coord_input():
@@ -40,7 +53,7 @@ def coord_input():
     decstr = input("DEC (deg:min:sec): ")
     return rastr, decstr
 
-def image_download(RA, DEC, fov = '1', Size = '750'):
+def image_download(RA, DEC, fov = '1.5', Size = '750'):
     """Generate URL and download image of sky centered around the coordinates specified
     """
     # uses user input to edit web address
@@ -49,7 +62,9 @@ def image_download(RA, DEC, fov = '1', Size = '750'):
            RA+','+DEC+'&size='+fov+'&pixels='+Size+'&Return=FITS')
 
     #Download image
+    print('downloading image....',url)
     wget.download(url, 'test.fits')
+    print('reading image....')
     hdu = fits.open('test.fits')[0]
     os.remove('test.fits')
     return hdu
@@ -82,7 +97,7 @@ def place_overlay(x_pixel, y_pixel, mousebutton, wcs, ax, FOV = '1', Size = '750
     
     if x_pixel == None or y_pixel == None:
         position_CCD = (size/2, size/2)
-        position_Guide = (size/2-2/scale, ((size/2)-(16/scale)))
+        position_Guide = (size/2+GuideOffRA/scale, ((size/2)+(GuideOffDEC/scale)))
     else:
         if mousebutton:
             position_Guide = (x_pixel, y_pixel)
@@ -92,12 +107,12 @@ def place_overlay(x_pixel, y_pixel, mousebutton, wcs, ax, FOV = '1', Size = '750
             position_CCD = ((x_pixel), (y_pixel))
         
     aperture_GuideStar = CircularAperture(position_Guide, r=(0.65/scale))
-    aperture_Guide = RectangularAperture(position_Guide, (6.14/scale),(4.85/scale))
+    aperture_Guide = RectangularAperture(position_Guide, (GuideX/scale),(GuideY/scale))
     aperture_GuideStar.plot(color = 'blue', lw=1.5, alpha=0.5)
     aperture_Guide.plot(color = 'red', lw=1.5, alpha=0.5)
     
     
-    aperture_CCD = RectangularAperture(position_CCD,(18.4/scale),(13.8/scale))
+    aperture_CCD = RectangularAperture(position_CCD,(SciX/scale),(SciY/scale))
     aperture_CCD.plot(color = 'green', lw=1.5, alpha=0.5)
     
     ax.figure.canvas.draw()
@@ -132,7 +147,7 @@ def main(rastr=None,decstr=None):
 
     # get image from skyview
     if rastr is None or decstr is None : 
-        ra,dec = coord_input()
+        rastr,decstr = coord_input()
     ra=str(Angle(rastr+' h').deg)
     dec=str(Angle(decstr+' d').deg)
     print(ra,dec)

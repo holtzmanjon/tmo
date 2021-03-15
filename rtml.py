@@ -74,10 +74,10 @@ def coords(rah,ram,ras,decd,decm,decs) :
 
     return ra, dec
 
-def csv(file) :
+def csv(file,user='NMSU',project='test') :
 
     out=Project()
-    out.open('test.rtml')
+    out.open(file+'.rtml')
 
     fp=open(file,'r')
     for line in fp :
@@ -120,5 +120,5 @@ def catalog(file,user='test',priority=5,airmax=2,monitor=0,repeat=1,bin=1,type='
 
     out.close()
 
-catalog('Messier.txt',user='NMSU',project='Messier',type='Messier catalog',exposures=[['B','300','1'],['V','300','1'],['R','300','1']])
-#csv('test.csv') 
+#catalog('Messier.txt',user='NMSU',project='Messier',type='Messier catalog',exposures=[['B','300','1'],['V','300','1'],['R','300','1']])
+csv('planets.csv',user='NMSU',project='Planets')
