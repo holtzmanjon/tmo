@@ -35,6 +35,7 @@ import pdb
 # FOV of science camera in arcmin
 SciX = 36.8
 SciY = 24.8
+PlateScale = 0.46
 # FOV of guide camera in arcmin
 GuideX = 6.14
 GuideY = 4.85
@@ -79,34 +80,34 @@ def image_setup(hdu):
     
     return wcs, fig, ax
 
-def place_overlay(x_pixel, y_pixel, mousebutton, wcs, ax, FOV = '1', Size = '750'):
+def place_overlay(x_pixel, y_pixel, mousebutton, wcs, ax, FOV = 1.5, Size = '750'):
     """Places either the main CCD, or the guide CCD apeture overlay 
     centered on the pixel coordinates depending on the boolean case "guide"
     specified in the input arguments. The overlay for the guide camera is placed
     with respect to the CCD center. Function also replots image to reset apertures
     (Easiest way I could find to do it for now)
     """
-    fov = int(FOV)*60
+    fov = FOV*60
     size = int(Size)
     scale = fov/size
     #Set plate scale of image 60 is number of arcmin across 
     
     position_Target = (size/2, size/2)
-    aperture_Target = CircularAperture(position_Target, r=(0.65/scale))
+    aperture_Target = CircularAperture(position_Target, r=(PlateScale/scale))
     aperture_Target.plot(color = 'blue', lw=1.5, alpha=0.5)
     
     if x_pixel == None or y_pixel == None:
         position_CCD = (size/2, size/2)
-        position_Guide = (size/2+GuideOffRA/scale, ((size/2)+(GuideOffDEC/scale)))
+        position_Guide = (size/2-GuideOffRA/scale, ((size/2)+(GuideOffDEC/scale)))
     else:
         if mousebutton:
             position_Guide = (x_pixel, y_pixel)
-            position_CCD = ((x_pixel)+2/scale, (y_pixel+(16/scale)))
+            position_CCD = ((x_pixel)+GuideOffRA/scale, (y_pixel-(GuideOffDEC/scale)))
         else:
-            position_Guide = (x_pixel-2/scale, y_pixel-(16/scale))    
+            position_Guide = (x_pixel-GuideOffRA/scale, y_pixel+(GuideOffDEC/scale))    
             position_CCD = ((x_pixel), (y_pixel))
         
-    aperture_GuideStar = CircularAperture(position_Guide, r=(0.65/scale))
+    aperture_GuideStar = CircularAperture(position_Guide, r=(PlateScale/scale))
     aperture_Guide = RectangularAperture(position_Guide, (GuideX/scale),(GuideY/scale))
     aperture_GuideStar.plot(color = 'blue', lw=1.5, alpha=0.5)
     aperture_Guide.plot(color = 'red', lw=1.5, alpha=0.5)
