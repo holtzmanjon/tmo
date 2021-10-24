@@ -1,4 +1,5 @@
 import pdb
+import yaml
 from astropy.io import ascii
 
 class Project() :
@@ -49,7 +50,8 @@ class Project() :
             filter=exposure[0]
             exptime=float(exposure[1])
             nexp=int(exposure[2])
-            self.fout.write('  <Picture count="{:d}"><Name>{:s}</Name><Description>#nopreview </Description>\n'.format(nexp,request.targ))
+            descrip=exposure[3]
+            self.fout.write('  <Picture count="{:d}"><Name>{:s}</Name><Description>{:s}</Description>\n'.format(nexp,filter,descrip))
             self.fout.write('    <ExposureTime>{:f}</ExposureTime><Binning>{:d}</Binning><Filter>{:s}</Filter>\n'.format(exptime,request.bin,filter))
             self.fout.write('  </Picture>\n')
         self.fout.write('</Target>\n')
@@ -94,8 +96,9 @@ def csv(file,user='NMSU',project='test') :
 
     fp=open(file,'r')
     # input CSV format:
-    # target,rah,ram,ras,decd,decm,decs,type,priority,monitor,airmax,repeat,bin,{nfilt}*[filter,exptime,count]
+    # target,rah,ram,ras,decd,decm,decs,type,priority,monitor,airmax,repeat,bin,exprepeat,{nfilt}*[filter,exptime,count]
     for line in fp :
+        if line[0] == '#' : continue
         fields=line.split(',')
         targ=fields[0]
         rah,ram,ras=fields[1:4]
@@ -107,18 +110,22 @@ def csv(file,user='NMSU',project='test') :
         airmax= float(fields[10])
         repeat=int(fields[11])
         bin=int(fields[12])
-        nfilt=(len(fields)-13)//3
-        i=13
+        exprepeat=int(fields[13])
+        nfilt=(len(fields)-14)//3
+        i=14
         exposures=[]
-        for ifilt in range(nfilt) :
-            exposures.append([fields[i],fields[i+1],fields[i+2]])
-            i+=3
+        for j in range(exprepeat) :
+            for ifilt in range(nfilt) :
+                exposures.append([fields[i],fields[i+1],fields[i+2]],"#nopreview")
+                i+=3
+            i-=nfilt*3
         request=Request(targ,project=type,type=type,monitor=monitor,airmax=airmax,priority=priority,ra=ra,dec=dec,bin=bin,exposures=exposures,repeat=repeat)
         out.write(request)
 
     out.close()
 
-def catalog(file,user='test',priority=5,airmax=2,monitor=0,repeat=1,bin=1,type='test',project='test',exposures=[['V','300','1'],['I','300','1']]) :    
+def catalog(file,user='test',priority=5,airmax=2,monitor=0,repeat=1,bin=1,type='test',project='test',
+            exposures=[['V','300','1',''],['I','300','1','']]) :    
     """ Create RTML from a catalog of targets, all with the same request configuration
     """
 
@@ -137,5 +144,34 @@ def catalog(file,user='test',priority=5,airmax=2,monitor=0,repeat=1,bin=1,type='
 
     out.close()
 
+def yml(file,user='NMSU',project='test') :
+
+    p = yaml.load(open(file,'r'),Loader=yaml.SafeLoader)
+    out=Project()
+    out.open(file.split('.')[0]+'.rtml')
+
+
+    rah,ram,ras=p['ra'].split()
+    decd,decm,decs=p['dec'].split()
+    ra,dec=coords(rah,ram,ras,decd,decm,decs)
+
+    for obs in p['obsrepeat'] :
+        exposures = []
+        for igroup,group in enumerate(p['expgroup']) :
+            if igroup == 0 :
+                for exposure in group['exposures'] :
+                    exposures.append([exposure['filter'],exposure['exptime'],exposure['count'],exposure['descrip']])
+            else :
+                for i in range(obs) :
+                    for exposure in group['exposures'] :
+                        exposures.append([exposure['filter'],exposure['exptime'],exposure['count'],exposure['descrip']])
+
+        request=Request(p['target'],project=p['type'],type=p['type'],monitor=p['monitor'],airmax=p['airmax'],priority=p['priority'],
+                   ra=ra,dec=dec,bin=p['bin'],exposures=exposures,repeat=p['repeat'])
+        out.write(request)
+        p['priority'] -= 1
+    out.close()
+
 #catalog('Messier.txt',user='NMSU',project='Messier',type='Messier catalog',exposures=[['B','300','1'],['V','300','1'],['R','300','1']])
-csv('planets.csv',user='NMSU',project='Planets')
+#csv('planets.csv',user='NMSU',project='Planets')
+#csv('transit.csv',user='NMSU',project='Planets')
