@@ -116,7 +116,7 @@ def csv(file,user='NMSU',project='test') :
         exposures=[]
         for j in range(exprepeat) :
             for ifilt in range(nfilt) :
-                exposures.append([fields[i],fields[i+1],fields[i+2]],"#nopreview")
+                exposures.append([fields[i],fields[i+1],fields[i+2],"#nopreview"])
                 i+=3
             i-=nfilt*3
         request=Request(targ,project=type,type=type,monitor=monitor,airmax=airmax,priority=priority,ra=ra,dec=dec,bin=bin,exposures=exposures,repeat=repeat)
